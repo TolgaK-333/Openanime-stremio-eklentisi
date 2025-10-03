@@ -1,2 +1,0 @@
-# Openanime-stremio-eklentisi
-Openanime
